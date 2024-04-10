@@ -1,0 +1,284 @@
+16:05:31.589 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+16:05:32.716 [main] INFO  stepDefinitions.steps - Clicked on Login 
+16:05:33.266 [main] INFO  stepDefinitions.steps - Provided Email 
+16:05:33.427 [main] INFO  stepDefinitions.steps - Provided Password 
+16:05:34.270 [main] INFO  stepDefinitions.steps - Clicked on Login button
+16:05:44.373 [main] ERROR stepDefinitions.steps - Login Failed 
+16:07:26.293 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+16:07:27.120 [main] INFO  stepDefinitions.steps - Clicked on Login 
+16:07:27.416 [main] INFO  stepDefinitions.steps - Provided Email 
+16:07:27.568 [main] INFO  stepDefinitions.steps - Provided Password 
+16:07:28.598 [main] INFO  stepDefinitions.steps - Clicked on Login button
+16:07:28.696 [main] INFO  stepDefinitions.steps - Login Success 
+16:08:03.995 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+16:08:04.840 [main] INFO  stepDefinitions.steps - Clicked on Login 
+16:08:05.109 [main] INFO  stepDefinitions.steps - Provided Email 
+16:08:05.256 [main] INFO  stepDefinitions.steps - Provided Password 
+16:08:06.069 [main] INFO  stepDefinitions.steps - Clicked on Login button
+16:08:06.148 [main] INFO  stepDefinitions.steps - Login Success 
+16:16:17.635 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+16:16:18.430 [main] INFO  stepDefinitions.steps - Clicked on Login 
+16:16:18.672 [main] INFO  stepDefinitions.steps - Provided Email 
+16:16:18.868 [main] INFO  stepDefinitions.steps - Provided Password 
+16:16:19.514 [main] INFO  stepDefinitions.steps - Clicked on Login button
+16:16:19.697 [main] INFO  stepDefinitions.steps - Login Success 
+17:20:24.977 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+17:20:25.445 [main] INFO  stepDefinitions.steps - Clicked on Login 
+17:20:25.607 [main] INFO  stepDefinitions.steps - Provided Email 
+17:20:25.712 [main] INFO  stepDefinitions.steps - Provided Password 
+17:20:26.121 [main] INFO  stepDefinitions.steps - Clicked on Login button
+17:20:41.156 [main] ERROR stepDefinitions.steps - Login Failed 
+17:20:43.966 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+17:20:44.513 [main] INFO  stepDefinitions.steps - Clicked on Login 
+17:20:44.687 [main] INFO  stepDefinitions.steps - Provided Email 
+17:20:44.796 [main] INFO  stepDefinitions.steps - Provided Password 
+17:20:45.252 [main] INFO  stepDefinitions.steps - Clicked on Login button
+17:20:45.365 [main] INFO  stepDefinitions.steps - Login Success 
+22:21:12.160 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+22:21:12.765 [main] INFO  stepDefinitions.steps - Clicked on Login 
+22:21:13.036 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:21:13.040 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:21:13.042 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:21:13.350 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+22:21:13.355 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+22:21:13.356 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+22:21:13.356 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+22:21:13.356 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+22:21:13.358 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+22:21:13.375 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+22:21:13.376 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+22:21:13.380 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+22:21:13.381 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+22:21:13.382 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+22:21:13.383 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+22:21:13.384 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+22:21:13.385 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+22:21:13.444 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+22:21:13.445 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle themefd26doctype
+22:21:13.512 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stylesheet5d8bdoctype
+22:21:13.522 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctstylesheet4257type
+22:21:13.528 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfonts6623type
+22:21:13.531 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfont14d8type
+22:21:13.537 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfills2c6ftype
+22:21:13.539 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfill550ctype
+22:21:13.541 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctborders0d66type
+22:21:13.544 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctborderf935type
+22:21:13.547 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcellxfs1322type
+22:21:13.550 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctxf97f7type
+22:21:13.554 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcellstylexfsa81ftype
+22:21:13.558 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctdxfsb26atype
+22:21:13.561 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle cttablestyles872ftype
+22:21:13.567 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle sstf81fdoctype
+22:21:13.573 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsst44f3type
+22:21:13.584 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctrsta472type
+22:21:13.605 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+22:21:13.606 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle workbookec17doctype
+22:21:13.611 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctworkbook83c3type
+22:21:13.618 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheets49fdtype
+22:21:13.621 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheet4dbetype
+22:21:13.625 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle strelationshipid1e94type
+22:21:13.628 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle worksheetf539doctype
+22:21:13.634 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctworksheet530dtype
+22:21:13.644 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcols627ctype
+22:21:13.650 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcola95ftype
+22:21:13.670 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheetdata8408type
+22:21:13.674 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctrowdd39type
+22:21:13.680 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcell842btype
+22:21:13.690 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stcellrefe4e0type
+22:21:13.697 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle cthyperlinks6416type
+22:21:13.700 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle cthyperlink0c85type
+22:21:13.709 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stxstringf179type
+22:21:13.712 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stcelltypebf95type
+22:21:18.235 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+22:21:18.732 [main] INFO  stepDefinitions.steps - Clicked on Login 
+22:21:18.750 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:21:18.753 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:21:18.755 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:21:18.780 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+22:21:36.914 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+22:21:37.441 [main] INFO  stepDefinitions.steps - Clicked on Login 
+22:21:37.457 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:21:37.459 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:21:37.464 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+22:21:37.484 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:18:20.759 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+23:18:21.544 [main] INFO  stepDefinitions.steps - Clicked on Login 
+23:18:21.828 [main] INFO  stepDefinitions.steps - Provided Email 
+23:18:22.023 [main] INFO  stepDefinitions.steps - Provided Password 
+23:18:22.754 [main] INFO  stepDefinitions.steps - Clicked on Login button
+23:18:22.855 [main] INFO  stepDefinitions.steps - Login Success 
+23:24:02.672 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+23:24:03.476 [main] INFO  stepDefinitions.steps - Clicked on Login 
+23:24:03.777 [main] INFO  stepDefinitions.steps - Provided Email 
+23:24:03.930 [main] INFO  stepDefinitions.steps - Provided Password 
+23:24:04.764 [main] INFO  stepDefinitions.steps - Clicked on Login button
+23:24:04.871 [main] INFO  stepDefinitions.steps - Login Success 
+23:24:09.318 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+23:24:10.040 [main] INFO  stepDefinitions.steps - Clicked on Login 
+23:24:10.322 [main] INFO  stepDefinitions.steps - Provided Email 
+23:24:10.481 [main] INFO  stepDefinitions.steps - Provided Password 
+23:24:11.175 [main] INFO  stepDefinitions.steps - Clicked on Login button
+23:24:26.245 [main] ERROR stepDefinitions.steps - Login Failed 
+23:24:30.458 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+23:24:31.305 [main] INFO  stepDefinitions.steps - Clicked on Login 
+23:24:31.568 [main] INFO  stepDefinitions.steps - Provided Email 
+23:24:31.720 [main] INFO  stepDefinitions.steps - Provided Password 
+23:24:32.505 [main] INFO  stepDefinitions.steps - Clicked on Login button
+23:24:32.585 [main] INFO  stepDefinitions.steps - Login Success 
+23:25:58.664 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+23:25:59.376 [main] INFO  stepDefinitions.steps - Clicked on Login 
+23:25:59.635 [main] INFO  stepDefinitions.steps - Provided Email 
+23:25:59.793 [main] INFO  stepDefinitions.steps - Provided Password 
+23:26:00.589 [main] INFO  stepDefinitions.steps - Clicked on Login button
+23:26:00.673 [main] INFO  stepDefinitions.steps - Login Success 
+23:26:04.458 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+23:26:05.206 [main] INFO  stepDefinitions.steps - Clicked on Login 
+23:26:05.431 [main] INFO  stepDefinitions.steps - Provided Email 
+23:26:05.593 [main] INFO  stepDefinitions.steps - Provided Password 
+23:26:06.258 [main] INFO  stepDefinitions.steps - Clicked on Login button
+23:26:21.333 [main] ERROR stepDefinitions.steps - Login Failed 
+23:26:26.029 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+23:26:26.758 [main] INFO  stepDefinitions.steps - Clicked on Login 
+23:26:27.041 [main] INFO  stepDefinitions.steps - Provided Email 
+23:26:27.186 [main] INFO  stepDefinitions.steps - Provided Password 
+23:26:27.963 [main] INFO  stepDefinitions.steps - Clicked on Login button
+23:26:28.046 [main] INFO  stepDefinitions.steps - Login Success 
+23:26:32.518 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+23:26:33.236 [main] INFO  stepDefinitions.steps - Clicked on Login 
+23:26:34.013 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:26:34.017 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:26:34.021 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:26:34.377 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+23:26:34.383 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+23:26:34.385 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+23:26:34.386 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+23:26:34.387 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+23:26:34.389 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+23:26:34.419 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+23:26:34.421 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+23:26:34.430 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+23:26:34.433 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+23:26:34.435 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+23:26:34.437 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+23:26:34.440 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+23:26:34.442 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+23:26:34.552 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+23:26:34.554 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle themefd26doctype
+23:26:34.686 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stylesheet5d8bdoctype
+23:26:34.700 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctstylesheet4257type
+23:26:34.711 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfonts6623type
+23:26:34.717 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfont14d8type
+23:26:34.728 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfills2c6ftype
+23:26:34.734 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfill550ctype
+23:26:34.739 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctborders0d66type
+23:26:34.745 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctborderf935type
+23:26:34.753 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcellxfs1322type
+23:26:34.760 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctxf97f7type
+23:26:34.767 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcellstylexfsa81ftype
+23:26:34.774 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctdxfsb26atype
+23:26:34.779 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle cttablestyles872ftype
+23:26:34.787 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle sstf81fdoctype
+23:26:34.795 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsst44f3type
+23:26:34.809 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctrsta472type
+23:26:34.851 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:26:34.853 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle workbookec17doctype
+23:26:34.865 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctworkbook83c3type
+23:26:34.877 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheets49fdtype
+23:26:34.884 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheet4dbetype
+23:26:34.890 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle strelationshipid1e94type
+23:26:34.898 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle worksheetf539doctype
+23:26:34.911 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctworksheet530dtype
+23:26:34.933 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcols627ctype
+23:26:34.944 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcola95ftype
+23:26:34.983 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheetdata8408type
+23:26:34.993 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctrowdd39type
+23:26:35.007 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcell842btype
+23:26:35.021 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stcellrefe4e0type
+23:26:35.034 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle cthyperlinks6416type
+23:26:35.039 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle cthyperlink0c85type
+23:26:35.054 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stxstringf179type
+23:26:35.060 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stcelltypebf95type
+23:26:41.472 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+23:26:42.227 [main] INFO  stepDefinitions.steps - Clicked on Login 
+23:26:42.259 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:26:42.263 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:26:42.269 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:26:42.304 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:27:02.980 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+23:27:03.669 [main] INFO  stepDefinitions.steps - Clicked on Login 
+23:27:03.712 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:27:03.714 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:27:03.718 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:27:03.750 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+23:32:54.912 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+23:32:55.724 [main] INFO  stepDefinitions.steps - Clicked on Login 
+23:32:56.020 [main] INFO  stepDefinitions.steps - Provided Email 
+23:32:56.220 [main] INFO  stepDefinitions.steps - Provided Password 
+23:32:56.937 [main] INFO  stepDefinitions.steps - Clicked on Login button
+23:33:11.996 [main] ERROR stepDefinitions.steps - Login Failed 
+23:35:29.216 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+23:35:30.021 [main] INFO  stepDefinitions.steps - Clicked on Login 
+23:35:30.302 [main] INFO  stepDefinitions.steps - Provided Email 
+23:35:30.456 [main] INFO  stepDefinitions.steps - Provided Password 
+23:35:31.141 [main] INFO  stepDefinitions.steps - Clicked on Login button
+23:35:46.225 [main] ERROR stepDefinitions.steps - Login Failed 
+23:37:07.232 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+23:37:08.036 [main] INFO  stepDefinitions.steps - Clicked on Login 
+23:37:08.323 [main] INFO  stepDefinitions.steps - Provided Email 
+23:37:08.471 [main] INFO  stepDefinitions.steps - Provided Password 
+23:37:09.154 [main] INFO  stepDefinitions.steps - Clicked on Login button
+23:37:24.216 [main] ERROR stepDefinitions.steps - Login Failed 
+23:45:29.673 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+23:45:30.453 [main] INFO  stepDefinitions.steps - Clicked on Login 
+23:45:30.720 [main] INFO  stepDefinitions.steps - Provided Email 
+23:45:30.877 [main] INFO  stepDefinitions.steps - Provided Password 
+23:45:31.593 [main] INFO  stepDefinitions.steps - Clicked on Login button
+23:45:46.682 [main] ERROR stepDefinitions.steps - Login Failed 
+23:52:35.624 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+23:52:36.402 [main] INFO  stepDefinitions.steps - Clicked on Login 
+23:52:36.676 [main] INFO  stepDefinitions.steps - Provided Email 
+23:52:36.833 [main] INFO  stepDefinitions.steps - Provided Password 
+23:52:37.496 [main] INFO  stepDefinitions.steps - Clicked on Login button
+23:52:52.571 [main] ERROR stepDefinitions.steps - Login Failed 
+23:56:43.679 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+23:56:44.522 [main] INFO  stepDefinitions.steps - Clicked on Login 
+23:56:44.806 [main] INFO  stepDefinitions.steps - Provided Email 
+23:56:45.052 [main] INFO  stepDefinitions.steps - Provided Password 
+23:56:45.793 [main] INFO  stepDefinitions.steps - Clicked on Login button
+23:57:00.878 [main] ERROR stepDefinitions.steps - Login Failed 
+23:58:34.707 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+23:58:35.519 [main] INFO  stepDefinitions.steps - Clicked on Login 
+23:58:35.768 [main] INFO  stepDefinitions.steps - Provided Email 
+23:58:35.935 [main] INFO  stepDefinitions.steps - Provided Password 
+23:58:36.664 [main] INFO  stepDefinitions.steps - Clicked on Login button
+23:58:51.717 [main] ERROR stepDefinitions.steps - Login Failed 
+00:00:49.177 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+00:00:50.032 [main] INFO  stepDefinitions.steps - Clicked on Login 
+00:00:50.332 [main] INFO  stepDefinitions.steps - Provided Email 
+00:00:50.499 [main] INFO  stepDefinitions.steps - Provided Password 
+00:00:51.267 [main] INFO  stepDefinitions.steps - Clicked on Login button
+00:01:06.361 [main] ERROR stepDefinitions.steps - Login Failed 
+00:01:37.959 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+00:01:38.718 [main] INFO  stepDefinitions.steps - Clicked on Login 
+00:01:39.019 [main] INFO  stepDefinitions.steps - Provided Email 
+00:01:39.172 [main] INFO  stepDefinitions.steps - Provided Password 
+00:01:39.829 [main] INFO  stepDefinitions.steps - Clicked on Login button
+00:01:54.948 [main] ERROR stepDefinitions.steps - Login Failed 
+00:04:37.474 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+00:04:38.367 [main] INFO  stepDefinitions.steps - Clicked on Login 
+00:04:38.633 [main] INFO  stepDefinitions.steps - Provided Email 
+00:04:38.810 [main] INFO  stepDefinitions.steps - Provided Password 
+00:04:39.707 [main] INFO  stepDefinitions.steps - Clicked on Login button
+00:04:39.795 [main] INFO  stepDefinitions.steps - Login Success 
+00:06:40.211 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+00:06:40.980 [main] INFO  stepDefinitions.steps - Clicked on Login 
+00:06:41.281 [main] INFO  stepDefinitions.steps - Provided Email 
+00:06:41.582 [main] INFO  stepDefinitions.steps - Provided Password 
+00:06:42.371 [main] INFO  stepDefinitions.steps - Clicked on Login button
+00:06:42.464 [main] INFO  stepDefinitions.steps - Login Success 
+00:09:51.116 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+00:09:52.036 [main] INFO  stepDefinitions.steps - Clicked on Login 
+00:09:52.284 [main] INFO  stepDefinitions.steps - Provided Email 
+00:09:52.444 [main] INFO  stepDefinitions.steps - Provided Password 
+00:09:53.274 [main] INFO  stepDefinitions.steps - Clicked on Login button
+00:09:53.348 [main] INFO  stepDefinitions.steps - Login Success 
